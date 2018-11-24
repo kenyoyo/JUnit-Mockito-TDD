@@ -41,4 +41,5 @@ public class TestMultiply {
 
 		assertEquals(castExpectedOutput, Multiply.pow(number, power));
 	}
+	
 }
